@@ -1,4 +1,4 @@
-# Data Structure (2020-1)
+# SNU Data Structure (2020-1)
 
 - All codes in Java.
 - Each assignment has instructions in `HW[N].docx` file.
