@@ -1,0 +1,25 @@
+r 10000 -100 100
+R
+Q
+H
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+X
